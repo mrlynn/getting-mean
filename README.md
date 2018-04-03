@@ -46,4 +46,4 @@ We'll continues working on this together. If you have a question or problem, let
 ## Next
 What's next?  Ready to start your journey of development?  Continue on from here to the workshop.  There are X stages or branches of development in the workshop.  If you successfully complete each branch or stage, you'll end up with a fully functional API-centered application written in Node.js.
 
-Next Ticket: `workshop/ticket0.md`
+Next Ticket: [Ticket Zero](../workshop/ticket0.md)
