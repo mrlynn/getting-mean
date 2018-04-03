@@ -1,5 +1,6 @@
 ![MongoDB](./images/header.png "MongoDB")
-# Getting MEAN - An Introduction to Modern, API-centered Application Development with Node.js and MongoDB
+# Getting MEAN
+## An Introduction to Modern, API-centered Application Development with Node.js and MongoDB
 ## Background
 This repository was created as a resource for a blog article being written for MongoDB.  It was designed to be consumed in stages by branch and will culminate in the creation of a functional application and API that creates, reads, updates and deletes data from and within a MongoDB database.
 ## Resources

@@ -24,20 +24,20 @@ While you can certainly run MongoDB locally - you'll also be interested to know 
 [![Launching your first Atlas Cluster](https://img.youtube.com/vi/_d8CBOtadRA/0.jpg)](https://www.youtube.com/watch?v=_d8CBOtadRA "Launching your first Atlas cluster")
 
 
-### Resources
+## Resources
 
 * [MongoDB Atlas](https://mongodb.com/atlas)
 * [MongoDB Downloads](https://mongodb.com/download)
 
-### Concepts
+## Concepts
 
-*
+* 
 
 
-### Hints
+## Hints
 
 None.
 
-### Next Ticket
+## Next Ticket
 
 [ticket 2](../workshop/ticket2.md)
