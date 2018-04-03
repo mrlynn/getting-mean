@@ -1,4 +1,4 @@
-![MongoDB](https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg "MongoDB")
+![MongoDB](./images/header.png "MongoDB")
 # Getting MEAN
 ## An Introduction to API-Centered Application Development with Node.js and MongoDB
 ### Ticket 1: Create a Server, Listener Process
