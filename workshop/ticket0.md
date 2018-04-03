@@ -42,4 +42,4 @@ None.
 
 ## Next Ticket
 
-[ticket 1](workshop/ticket1.md)
+[ticket 1](./workshop/ticket0.md)
