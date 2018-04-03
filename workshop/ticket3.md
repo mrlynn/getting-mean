@@ -1,4 +1,4 @@
-![MongoDB](./images/header.png "MongoDB")
+![MongoDB](../images/header.png "MongoDB")
 # Getting MEAN
 ## An Introduction to API-Centered Application Development with Node.js and MongoDB
 ### Ticket 1: Create a Server, Listener Process
