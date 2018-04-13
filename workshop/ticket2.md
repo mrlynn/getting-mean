@@ -29,11 +29,13 @@ Michaels-MacBook-Pro-2:getting-mean mlynn$ node helloworld.js
 hello world
 ```
 
-You're on your way to becoming a hero.
+You're on your way to becoming a hero.  Jump to [ticket 3](../workshop/ticket3.md) if you're up for the challenge.
 
 ## Resources
 
 * [Node.js](https://nodejs.org)
+* [Installing Node.js on Windows](https://nodesource.com/blog/installing-nodejs-tutorial-windows/)
+* [Installing Node.js on Mac OS](https://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/)
 * [NPM Downloads](https://mongodb.com/download)
 
 ## Concepts
@@ -46,4 +48,4 @@ None.
 
 ## Next Ticket
 
-[ticket 3](../workshop/ticket3.md)
+[ticket 3](../workshop/ticket3.md) - Installing NPM

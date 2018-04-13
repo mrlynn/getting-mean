@@ -2,7 +2,23 @@
 # Getting MEAN
 ## An Introduction to Modern, API-centered Application Development with Node.js and MongoDB
 ## Background
-This repository was created as a resource for a blog article being written for MongoDB.  It was designed to be consumed in stages by branch and will culminate in the creation of a functional application and API that creates, reads, updates and deletes data from and within a MongoDB database.
+This repository was created as a resource for a blog article being written for MongoDB as well as for a talk to be delivered at MongoDB World 2018.  It was designed to be consumed in stages by branch and will culminate in the creation of a functional application and API that creates, reads, updates and deletes data from and within a MongoDB database.
+
+The title of the talk is "Zero to Hero in 80 minutes with the Node.js and MongoDB".  That's a tall order.  Let's first address the first and most obvious question: What is a hero?
+
+## he·ro ##
+ˈhirō/Submit
+
+_noun_
+
+1.
+a person who is admired or idealized for courage, outstanding achievements, or noble qualities.
+"a war hero"
+synonyms:	brave person, brave man/woman, man/woman of courage, man/woman of the hour, lionheart, warrior, knight; More
+2.
+NORTH AMERICAN
+another term for submarine sandwich.
+
 ## Resources
 * [MongoDB Download Center](https://www.mongodb.com/download-center#community)
 * [Node.js](http://nodejs.org)

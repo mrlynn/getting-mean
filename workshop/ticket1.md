@@ -40,4 +40,4 @@ None.
 
 ## Next Ticket
 
-[ticket 2](../workshop/ticket2.md)
+[ticket 2](../workshop/ticket2.md) - Executing Node.js from command line.
