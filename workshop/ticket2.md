@@ -29,7 +29,7 @@ Michaels-MacBook-Pro-2:getting-mean mlynn$ node helloworld.js
 hello world
 ```
 
-You're on your way to becoming a hero.  Jump to [ticket 3](../workshop/ticket3.md) if you're up for the challenge.
+You're on your way to becoming a hero.  Jump to [ticket 3](../workshop/ticket3.md) if you're up for
 
 ## Resources
 
