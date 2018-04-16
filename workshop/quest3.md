@@ -1,9 +1,9 @@
 ![MongoDB](../images/header.png "MongoDB")
 # Getting MEAN
 ## An Introduction to API-Centered Application Development with Node.js and MongoDB
-## Ticket 1: Create a Server, Listener Process
+## quest 1: Create a Server, Listener Process
 
-Here's an overview of the things we'll need to accomplish to close out this ticket:
+Here's an overview of the things we'll need to accomplish to close out this quest:
 
 * Initialize our Node.js project with a `package.json` file.  See `npm init`.
 * Create a server.js JavaScript application file and instantiate a call to the server library to create a listener.
@@ -92,6 +92,6 @@ app.use((req, res, next) => {
 ## Helpful Hints
 We'll be doing this together. If you have a question or problem, let one of the mentors know.
 
-## Next Ticket
+## Next quest
 
-Next Ticket: `workshop/ticket4.md` - Creating an API
+Next quest: `workshop/quest4.md` - Creating an API

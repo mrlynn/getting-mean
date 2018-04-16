@@ -16,6 +16,10 @@ synonyms:	brave person, brave man/woman, man/woman of courage, man/woman of the 
 
 2. NORTH AMERICAN another term for submarine sandwich.
 
+So I'm either going to impart to you a series of teachings, tools, weapons and resources that will enable you to become a brave, courageous person that can be admired for noble qualities, or I'm going to teach you to become sandwich-like... or both.
+
+The format of the workshop is simple.  We'll leverage a series of quests.
+
 ## Weapons, Tools and Resources
 * [MongoDB Download Center](https://www.mongodb.com/download-center#community)
 * [Node.js](http://nodejs.org)
@@ -60,4 +64,4 @@ We'll continues working on this together. If you have a question or problem, let
 ## Next
 What's next?  Ready to start your journey of development?  Continue on from here to the workshop.  There are X stages or branches of development in the workshop.  If you successfully complete each branch or stage, you'll end up with a fully functional API-centered application written in Node.js.
 
-Next Ticket: [Ticket Zero](./workshop/ticket0.md) - Introduction to tickets and some basics.
+Next Quest: [Quest Zero](./workshop/quest0.md) - Introduction to quests and some basics.

@@ -2,7 +2,7 @@
 # Getting MEAN
 ## An Introduction to API-Centered Application Development with Node.js and MongoDB
 
-## Ticket 1: Install Requirements
+## quest 1: Install Requirements
 
 As a developer, you'll leverage the following technologies to create a application:
 
@@ -11,7 +11,7 @@ As a developer, you'll leverage the following technologies to create a applicati
 * AngularJS - We'll not leverage this for much during this workshop.
 * Node.js
 
-At the end of this ticket, if you've successfully completed the requirements:
+At the end of this quest, if you've successfully completed the requirements:
 
 * You will have installed MongoDB locally.
  - Test this by typing `mongo` from command line.
@@ -70,6 +70,6 @@ sudo npm install npm --global // Update the `npm` CLI client
 
 None.
 
-## Next Ticket
+## Next quest
 
-[ticket 2](../workshop/ticket2.md) - Executing Node.js from command line.
+[quest 2](../workshop/quest2.md) - Executing Node.js from command line.
