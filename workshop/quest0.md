@@ -2,7 +2,7 @@
 # Getting MEAN
 ## An Introduction to API-Centered Application Development with Node.js and MongoDB
 
-## quest 0: Introduction to the Workshop and quests
+## quest 0: Introduction to the Workshop and Quests
 
 This workshop was created to guide the developer through the process of becoming hero... actually creating an API-centered Application using Node.js and MongoDB.  Well accomplish this through a journey led through by user-centered development tasks called quests.  This workshop has 15 quests associated with it and each has a distinct number of tasks required in order to move to the next.
 
@@ -69,4 +69,4 @@ None.
 
 ## Next quest
 
-[quest 1](../workshop/quest1.md) - Installation requirements for the MEAN Stack.
+[Quest 1 - Fearlessly Install!](../workshop/quest1.md) - Installation requirements for the MEAN Stack.
