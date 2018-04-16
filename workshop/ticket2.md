@@ -31,7 +31,7 @@ hello world
 
 You're on your way to becoming a hero.  Jump to [ticket 3](../workshop/ticket3.md) if you're up for
 
-## Resources
+## Weapons, Tools and Resources
 
 * [Node.js](https://nodejs.org)
 * [Installing Node.js on Windows](https://nodesource.com/blog/installing-nodejs-tutorial-windows/)

@@ -48,11 +48,34 @@ server.listen(port, (err) => {
 })
 ```
 
-Now that we understand what a listener looks like, let's build on that and start creation of our Application Programming Interface (API)
+Now that we understand what a listener looks like, let's build on that and start creation of our Application Programming Interface (API).
 
+Before we do this, let's install a critical component of the MEAN stack.  This component is effectively the `E` in MEAN and it stands for `Express`JS.  Express is a web application framework.  This framework helps you to organize your application and build it using the `MVC` or Models, Views, and Containers methodology.  More on this later.
 
- 
-## Resources
+Installing Express is simple - we're going to leverage `npm` or the Node Package Manager.  You can leverage `yarn` if you choose - but I'll be sticking with npm for this workshop.
+
+```
+npm install --save express
+```
+
+You should something similar to the following output:
+```
++ express@4.16.3
+updated 1 package in 1.509s
+```
+
+Once installed, we can now instantiate our app object from the express package thusly:  Create a file called `app.js` and fill it up with the following:
+
+const express = require('express');
+const app = express();
+
+app.use((req, res, next) => {
+    res.status(200).json({
+        message: "You're becoming a hero!"
+    });
+});
+
+## Weapons, Tools and Resources
 
 * [Node.js Documentation](https://nodejs.org/en/docs)
 * [HTTP Library Documentation](https://www.npmjs.com/package/http)
@@ -70,6 +93,5 @@ Now that we understand what a listener looks like, let's build on that and start
 We'll be doing this together. If you have a question or problem, let one of the mentors know.
 
 ## Next Ticket
-You now have your very own Atlas M0 Cluster, but it doesn't have any data. Next, we'll populate it with movie data. 
 
-Next Ticket: `workshop/ticket4.md`
+Next Ticket: `workshop/ticket4.md` - Creating an API

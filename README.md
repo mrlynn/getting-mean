@@ -11,15 +11,12 @@ The title of the talk is "Zero to Hero in 80 minutes with the Node.js and MongoD
 
 _noun_
 
-1.
-a person who is admired or idealized for courage, outstanding achievements, or noble qualities.
-"a war hero"
-synonyms:	brave person, brave man/woman, man/woman of courage, man/woman of the hour, lionheart, warrior, knight; More
-2.
-NORTH AMERICAN
-another term for submarine sandwich.
+1. a person who is admired or idealized for courage, outstanding achievements, or noble qualities. "a war hero"
+synonyms:	brave person, brave man/woman, man/woman of courage, man/woman of the hour, lionheart, warrior, knight;
 
-## Resources
+2. NORTH AMERICAN another term for submarine sandwich.
+
+## Weapons, Tools and Resources
 * [MongoDB Download Center](https://www.mongodb.com/download-center#community)
 * [Node.js](http://nodejs.org)
 

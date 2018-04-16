@@ -47,7 +47,7 @@ Once there, you'll see a directory structure similar to the following:
     ...
 ```
 
-## Resources
+## Weapons, Tools and Resources
 
 * [Github Help](https://help.github.com/)
 
