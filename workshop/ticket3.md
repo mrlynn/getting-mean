@@ -28,6 +28,27 @@ server.listen(port);
 
 This is the simplest way to create a server / listener and this gives us the capability to communicate with browsers that send requests such as GET, and POST requests.  Let's build on this example and show what handling a GET request looks like.
 
+```
+const http = require('http')
+const port = process.env.PORT || 3000;
+
+const requestHandler = (request, response) => {
+  console.log(request.url)
+  response.end('Hello Node.js Server!')
+}
+
+const server = http.createServer(requestHandler)
+
+server.listen(port, (err) => {
+  if (err) {
+    return console.log('something bad happened', err)
+  }
+
+  console.log(`server is listening on ${port}`)
+})
+```
+
+Now that we understand what a listener looks like, let's build on that and start creation of our Application Programming Interface (API)
 
 
  
