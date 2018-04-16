@@ -1,7 +1,7 @@
 ![MongoDB](../images/header.png "MongoDB")
 # Getting MEAN
 ## An Introduction to API-Centered Application Development with Node.js and MongoDB
-## quest 1: Create a Server, Listener Process
+## Quest 3: Crafting your own tools: The Server, Listener Process
 
 Here's an overview of the things we'll need to accomplish to close out this quest:
 
@@ -92,6 +92,6 @@ app.use((req, res, next) => {
 ## Helpful Hints
 We'll be doing this together. If you have a question or problem, let one of the mentors know.
 
-## Next quest
+## Next Quest
 
-Next quest: `workshop/quest4.md` - Creating an API
+[Quest 4](../workshop/quest4.md) - Building an APP and an API

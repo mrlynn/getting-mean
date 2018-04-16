@@ -2,9 +2,9 @@
 # Getting MEAN
 ## An Introduction to API-Centered Application Development with Node.js and MongoDB
 
-## quest 2: Running Node.js
+## quest 2: Wielding Node.js
 
-Part of becoming a MEAN Stack hero is running Node.js from command line.  In order to do that you should have already installed Node.js and have the ability to create a javascript application that will be transpiled by Node.js for execution.  
+Part of becoming a MEAN Stack hero is brandishing your weapons at a moment's notice.  Node.js from command line is just such a weapon.  In order to do that you should have already installed Node.js and have the ability to create a javascript application that will be transpiled by Node.js for execution.  
 
 This specific quest is going to require that you create a javascript Node.js script that outputs "Hello World".
 
@@ -29,7 +29,7 @@ Michaels-MacBook-Pro-2:getting-mean mlynn$ node helloworld.js
 hello world
 ```
 
-You're on your way to becoming a hero.  Jump to [quest 3](../workshop/quest3.md) if you're up for
+You're on your way to becoming a hero.  Jump to [Quest 3](../workshop/quest3.md) if you're up for
 
 ## Weapons, Tools and Resources
 
@@ -48,4 +48,4 @@ None.
 
 ## Next quest
 
-[quest 3](../workshop/quest3.md) - Installing NPM
+[Quest 3](../workshop/quest3.md) - Installing NPM
