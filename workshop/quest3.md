@@ -28,7 +28,7 @@ server.listen(port);
 
 This is the simplest way to create a server / listener and this gives us the capability to communicate with browsers that send requests such as GET, and POST requests.  Let's build on this example and show what handling a GET request looks like.
 
-```
+```javascript {.line-numbers}
 const http = require('http')
 const port = process.env.PORT || 3000;
 
@@ -66,6 +66,7 @@ updated 1 package in 1.509s
 
 Once installed, we can now instantiate our app object from the express package thusly:  Create a file called `app.js` and fill it up with the following:
 
+```javascript {.line-numbers}
 const express = require('express');
 const app = express();
 
@@ -74,6 +75,7 @@ app.use((req, res, next) => {
         message: "You're becoming a hero!"
     });
 });
+```
 
 ## Weapons, Tools and Resources
 

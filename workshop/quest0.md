@@ -38,6 +38,9 @@ Once there, you'll see a directory structure similar to the following:
 ├── package.json
 ├── server-app.js
 ├── server.js
+├── api
+    └── routes
+        └── quests.js
 └── workshop
     ├── README.md
     ├── quest0.md
