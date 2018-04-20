@@ -39,10 +39,12 @@ router.get('/quests',(req, res, next) => {
 });
 ```
 
-Now that we have the router in place, we need to tell the application to leverage this file.  Let's head back to our app.js file and insert a requirement.
+Now that we have the router in place, we need to tell the application to leverage this file.  Let's head back to our app.js file and insert this handler as a required element in our main app.
 
 ```
-const questRoutes = require('./routes/quest)
+const questRoutes = require('./routes/quest);
+
+```
 
 ## Weapons, Tools and Resources
 
