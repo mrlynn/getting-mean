@@ -21,6 +21,5 @@ The following is a set of quests created with individual user stories that were 
 * [Quest 8](./quest8.md) - Mongoose - Object Data Modeling
 
 
-+---+---+---+---+---+---+---+---+---+
+| |
 |[Quest Zero](./quest0.md)|[Quest 1](./quest1.md) | [Quest 2](./quest2.md) | [Quest 3](./quest3.md) | [Quest 4](./quest4.md) | [Quest 5](./quest5.md) | [Quest 6](./quest6.md) | [Quest 7](./quest7.md) | [Quest 8](./quest8.md) | [Quest 9](./quest9.md) |
-+---+---+---+---+---+---+---+---+---+
