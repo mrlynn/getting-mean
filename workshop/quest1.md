@@ -82,6 +82,8 @@ None.
 |  |[Quest 6 ](./quest6.md) | Enter MongoDB - Native JavaScript  |
 |  |[Quest 7](./quest7.md) | Creating and Reading data using the Native MongoDB Driver |
 | | [Quest 8](./quest8.md) | Mongoose - Object Data Modeling |
+| | [Quest 9](./quest9.md) | CRUD - Create, Read, Update and Delete |
+
 
 ## Next quest
 
