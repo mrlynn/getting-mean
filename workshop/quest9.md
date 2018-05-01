@@ -1,16 +1,16 @@
 ![MongoDB](../images/header.png "MongoDB")
 # Getting MEAN
-## An Introduction to Modern, API-centered Application Development with Node.js and MongoDB
+## An Introduction to API-Centered Application Development with Node.js and MongoDB
+## Quest 9: Creating and Reading data using Mongoose
 
-### Background
 
-This directory is part of a workshop designed to walk a developer through the process of developing an API-centered Application using Node.js and MongoDB.
+## Weapons, Tools and Resources
 
-### Workshop quests
+## Concepts
 
-The following is a set of quests created with individual user stories that were designed to guide a developer through the process of creating an application in Node.js.
+## Helpful Hints
 
-## Table of Contents
+## You are Here - Quests
 |  | Quest | Description |
 |--|-------|-------------|
 |  |[Quest Zero](./quest0.md) | First quest to read.  Provides some overview information and background. |
@@ -22,4 +22,8 @@ The following is a set of quests created with individual user stories that were 
 |  |[Quest 6](./quest6.md) | Enter MongoDB - Native JavaScript  |
 |  |[Quest 7](./quest7.md) | Creating and Reading data using the Native MongoDB Driver |
 |  | [Quest 8](./quest8.md) | Mongoose - Object Data Modeling |
-| | [Quest 9](./quest9.md) | Creating and Reading data using Mongoose  |
+| > | Quest 9 | Creating and Reading data using Mongoose  |
+
+## Next Quest
+
+Next quest: [CONGRATULATIONS!  Next Steps](./nextsteps.md)
