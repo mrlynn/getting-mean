@@ -61,6 +61,19 @@ For additional information, see [MongoDB JSON/BSON Documents
 ## Helpful Hints
 We'll continues working on this together. If you have a question or problem, let one of the mentors know.
 
+## Structure of the Workshop - Quests
+|  | Quest | Description |
+|--|-------|-------------|
+| > |[Quest Zero](./quest0.md) | First quest to read.  Provides some overview information and background. |
+|  |[Quest 1 - Fearlessly Install!](./quest1.md) | Initialize your project and install some of the required software. |
+|  |[Quest 2 - Wielding Node.js](./quest2.md) | creating a quick test JavaScript. |
+|  |[Quest 3 - Crafting a Server](./quest3.md) | Crafting your own tools: Building a server process using `httpd` and `express` |
+|  |[Quest 4 - Handling Requests](./quest4.md) | We'll build a minimal application and introduce the concept of routes and how to handle incoming requests of different types. |
+|  |[Quest 5 - Data - the heroin](./quest5.md) | Defining the data for our application |
+|  |[Quest 6 - ](./quest6.md) | Enter MongoDB - Native JavaScript  |
+|  |[Quest 7](./quest7.md) | Creating and Reading data using the Native MongoDB Driver |
+| | [Quest 8](./quest8.md) | Mongoose - Object Data Modeling |
+
 ## Next
 What's next?  Ready to start your journey of development?  Continue on from here to the workshop.  There are X stages or branches of development in the workshop.  If you successfully complete each branch or stage, you'll end up with a fully functional API-centered application written in Node.js.
 

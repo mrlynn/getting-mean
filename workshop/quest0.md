@@ -70,6 +70,20 @@ Once there, you'll see a directory structure similar to the following:
 
 None.
 
+## You are Here - Quests
+|  | Quest | Description |
+|--|-------|-------------|
+| > |Quest Zero | First quest to read.  Provides some overview information and background. |
+|  |[Quest 1](./quest1.md) | Initialize your project and install some of the required software. |
+|  |[Quest 2 ](./quest2.md) | creating a quick test JavaScript. |
+|  |[Quest 3 ](./quest3.md) | Crafting your own tools: Building a server process using `httpd` and `express` |
+|  |[Quest 4 ](./quest4.md) | We'll build a minimal application and introduce the concept of routes and how to handle incoming requests of different types. |
+|  |[Quest 5 ](./quest5.md) | Defining the data for our application |
+|  |[Quest 6 ](./quest6.md) | Enter MongoDB - Native JavaScript  |
+|  |[Quest 7](./quest7.md) | Creating and Reading data using the Native MongoDB Driver |
+| | [Quest 8](./quest8.md) | Mongoose - Object Data Modeling |
+
+
 ## Next quest
 
 [Quest 1 - Fearlessly Install!](../workshop/quest1.md) - Installation requirements for the MEAN Stack.

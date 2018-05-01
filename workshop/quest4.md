@@ -43,6 +43,7 @@ Now that we have the router in place, we need to tell the application to leverag
 
 ```
 const questRoutes = require('./routes/quest)
+```
 
 ## Weapons, Tools and Resources
 
@@ -54,6 +55,19 @@ const questRoutes = require('./routes/quest)
 
 ## Helpful Hints
 
+## You are Here - Quests
+|  | Quest | Description |
+|--|-------|-------------|
+|  |[Quest Zero](./quest0.md) | First quest to read.  Provides some overview information and background. |
+|  |[Quest 1](./quest1.md) | Initialize your project and install some of the required software. |
+|  |[Quest 2 ](./quest2.md) | creating a quick test JavaScript. |
+|  |[Quest 3 ](./quest3.md) | Crafting your own tools: Building a server process using `httpd` and `express` |
+| > |Quest 4 | We'll build a minimal application and introduce the concept of routes and how to handle incoming requests of different types. |
+|  |[Quest 5 ](./quest5.md) | Defining the data for our application |
+|  |[Quest 6 ](./quest6.md) | Enter MongoDB - Native JavaScript  |
+|  |[Quest 7](./quest7.md) | Creating and Reading data using the Native MongoDB Driver |
+| | [Quest 8](./quest8.md) | Mongoose - Object Data Modeling |
+
 ## Next Quest
 
-Next quest: `workshop/quest4.md` - Creating an API
+Next quest: `workshop/quest5.md`
